@@ -1,3 +1,7 @@
+# ⚠️ NOTICE
+
+# AS REQUESTED BY THE DEVELOPERS OF THE GAME, I TOOK DOWN THE ONLINE EDITOR AND I'M NOT GOING TO UPDATE IT ANY MORE, THE CODE WILL BE AVAILABLE FOR ANYONE TO MANTAIN/FORK.
+
 # Deep Rock Galactic Save Editor
 
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
@@ -8,7 +12,7 @@
 Online save editor for deep rock galactic game. [Try it out!](https://mrmarble.dev/drg-editor/)
 
 > ⚠️ ALWAYS BACKUP YOUR SAVE FILE!
-
+> 
 ## Work in progress
 
 Current features:
@@ -17,7 +21,7 @@ Current features:
 - Edit Performance pass level and tokens
 - Edit dwarf level and promotion
 - Edit perk points
-- Edit weapon overclocks
+- ~Edit weapon overclocks~ (broken again :rolling_eyes:)
 
 Planned features (hopefully :wink:):
 
@@ -27,6 +31,12 @@ Planned features (hopefully :wink:):
 ## Offline!
 
 This editor runs fully on your browser, your save file never leaves your computer
+
+## Usage
+
+
+https://user-images.githubusercontent.com/4268580/211190848-7409cc91-3876-44d0-a66c-518a4efc3724.mp4
+
 
 ## Snapshots
 
